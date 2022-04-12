@@ -7,7 +7,7 @@ share-img: /assets/img/gganimate.png
 tags: [gganimate, magick, ggplot2, visualization]
 ---
 
-While trying to find new interesting ways to visualize data, one of the methods that intrigued me is animation. Animated visualizations are fun to look at, and they are a great way to introduce data viz to a beginner.  
+While trying to find new interesting ways to visualize data, one of the methods that intrigued me is animation. Animated visualizations are fun to look at, and they are a great way to introduce data viz to a beginner or someone unfamiliar with data.  
 
 *gganimate* is a wonderful R package that allows a user to animate a visualization based on a variable present in the dataset. You can very easily animate one visualization at a time. But, what about animating an entire dashboard, with all the visualizations synchronized? That to me was an interesting problem, and this article is a guide on how you can create an animated dahboard similar to how the one below. 
 
@@ -67,6 +67,8 @@ p1 <- ggplot() +
   ease_aes("circular-in")
 ```
 
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/102229035/162913517-fe017bb6-0cd6-4bda-baf0-cab5d17d1782.png">
+
 You can very easily see where gganimate is being applied here, as I've explicitly pointed it out by naming it within the code. `transition_time` is one of the many functions that can be used to render animations using *gganimate*. We've also included a specific animation style using the `ease_aes` function, one that suits the heatmap style we have adopted for the viz. Feel free to play with the colours as well.
 
 ## Bar Plot 
@@ -92,6 +94,8 @@ p2 <- ggplot(bar_data) +
   labs(y = "Situation", x = "Goals") +
   gganimate::transition_states(year)
 ```
+
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/102229035/162913775-bb964f24-39cd-4820-956d-78b2a2cb463b.png">
 
 Not much different from the shot map here, except we've decided to show the gridlines in this plot. Notice how we have used a different animation function for this plot. In my opinion, `transition_states` shows the data presented by the bar chart in the simplest way with the least obstructions due to the moving animations. 
 
@@ -125,6 +129,8 @@ p3 <- ggplot(line_data, aes(x = index, y = GxGSM)) +
         panel.background = element_blank()) +
   gganimate::transition_reveal(year)
 ```
+
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/102229035/162914073-d77b39f6-e91e-493e-bfe6-64f000d0b229.png">
 
 A few new things to notice here. We're finally creating a title in this plot. This is because in the dashboard, this line plot will be at the top of the other two plots which shall be stacked side-by-side. Also we're using a `frame_along` within the title of the plot, which will animate the title and change as the years change. 
 
@@ -184,3 +190,13 @@ Our animated dashboard is finally ready! We can go ahead and save it by running 
 ```r
 image_write(new_gif, format = "gif", path = "animation.gif")
 ```
+
+The entire code for this visualization [can be found at this link](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Articles%20Code/gganimate%20Article.R) 
+
+***
+
+*Author: [Harsh Krishna](https://twitter.com/veryharshtakes)*
+
+*We hope you enjoyed reading this article and found the concepts interesting and simple to understand. You can contact the author at his twitter account about any doubts you may have.* 
+
+*Thanks for reading!*
