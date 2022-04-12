@@ -14,3 +14,17 @@ This page contains code for some basic visualizations using R and ggplot2. We en
 A bumpy chart using Transfermarkt data.
 
 ![big6](https://user-images.githubusercontent.com/102229035/160268180-87ed9f7b-a600-4cfb-94d6-4d34a59ed463.png)
+
+*Author(s): Harsh Krishna* 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# [Waffle Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Waffle.R)
+
+Waffle chart using FBref and StatsBomb data.
+
+Extra Reading: [Solving the 'preserving the sum after rounding' problem for a soccer waffle viz](https://ryo-n7.github.io/2022-01-14-preserve-sum-rounding-soccer-viz/) 
+
+![wafflebig5](https://user-images.githubusercontent.com/102229035/162947562-d191ef8b-612b-4ba5-915d-4178451b975c.png)
+
+*Author(s): Ryo Nakagawara, Harsh Krishna*
