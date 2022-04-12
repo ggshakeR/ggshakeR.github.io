@@ -22,6 +22,7 @@ A bumpy chart using Transfermarkt data.
 # [Waffle Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Waffle.R)
 
 Waffle chart using FBref and StatsBomb data.
+
 Extra Reading: [Solving the 'preserving the sum after rounding' problem for a soccer waffle viz](https://ryo-n7.github.io/2022-01-14-preserve-sum-rounding-soccer-viz/) 
 
 ![wafflebig5](https://user-images.githubusercontent.com/102229035/162952654-19aa0d8e-1692-4ac7-a64e-66250bdfe64d.png)
