@@ -138,6 +138,10 @@ Yet again, we are using a different transition function for the line plot. `tran
 
 You might notice that the animation for this plot moves a bit slowly. This is as the variable used for the animation is **year**. You will recieve a smoother animation by using the variable **date** in the transition layer. However, for the sake of synchronization of the dashboard, we'll continue with using **year**
 
+Here's what the line chart could have looked like if we used the **date** variable as the transition layer. 
+
+<img src="/assets/img/linechart.gif" style="display: block; margin: auto;" align ="middle" width = "600" />
+
 And we're done with creating all our plots. The next part is the most interesting one, detailing the animations and getting all the plots put together in a dashboard. 
 
 ## Animation and Synchronization
