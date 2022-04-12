@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animating a dashboard using {gganimate}
-subtitle: A little bit of magick to help you along the way!
+subtitle: A little bit of {magick} to help you along the way!
 thumbnail-img: /assets/img/gganimate.png
 share-img: /assets/img/gganimate.png
 tags: [gganimate, magick, ggplot2, visualization]
