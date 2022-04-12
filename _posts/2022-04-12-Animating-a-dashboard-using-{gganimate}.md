@@ -168,15 +168,19 @@ p3_gif <- animate(p3,
 
 ## Putting it all together
 
-The time to put together the final product is finally here! First, let us assemble the dashboard. The shot map and the bar plot go side by side **(p1_gif & p2_gif)**. The combined image **(combined)** is once again put together with the line chart, this time with the argument `stack` put to **TRUE**, which stacks the images one on top of the other.
+The time to put together the final product is finally here! First, let us assemble the dashboard. The shot map and the bar plot go side by side **(p1_gif & p2_gif)**. The combined image **(combined)** is once again put together with the line chart, this time with the argument `stack` put to **TRUE**, which stacks the images one on top of the other. 
 
-The **1** next to the GIF's stands for the first frame in the GIF. There are 200 frames in this GIF, which is a number we got from animating the vizzes in the previous code block. We set the frames per second **(fps)** as 10 and the **duration** as 20, the product of which gives us 200. 
+```r
+
+combined <- image_append(c(p1_gif[1], p2_gif[1]))
+new_gif <- image_append(c(p3_gif[1], image_flatten(combined)), stack=TRUE)
+```
+
+The **1** next to the GIF's stands for the first frame in the GIF. There are 200 frames in this GIF, which is a number we got from animating the vizzes in the previous code block. We set the frames per second **(fps)** as 10 and the **duration** as 20, the product of which gives us 200.
 
 We use a `for loop` to run through the same code again, but this time from layers 2 through to 200, and combining all the layers into the object `new_gif`.
 
 ```r
-combined <- image_append(c(p1_gif[1], p2_gif[1]))
-new_gif <- image_append(c(p3_gif[1], image_flatten(combined)), stack=TRUE)
 
 for(i in 2:200){
   combined <- image_append(c(p1_gif[i], p2_gif[i]))
