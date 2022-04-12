@@ -20,7 +20,7 @@ data <- fb_big5_advanced_season_stats(season_end_year = 2022, stat_type = "gca",
 # Data Wrangling 
 
 data1 <- data %>%
-  filter(Mins_Per_90 >= 9) %>%
+  filter(Mins_Per_90 >= 20) %>%
   select(Player, Mins_Per_90, contains("SCA")) %>%
   arrange(desc(SCA90_SCA)) %>%
   slice(1:20)
