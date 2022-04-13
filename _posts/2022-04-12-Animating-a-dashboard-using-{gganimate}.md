@@ -197,7 +197,15 @@ Our animated dashboard is finally ready! We can go ahead and save it by running 
 image_write(new_gif, format = "gif", path = "animation.gif")
 ```
 
+And we're done! Look for the file "animation.gif" within the working directory of your system *(use `getwd()` to find working directory). 
+
 The entire code for this visualization [can be found at this link](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Articles%20Code/gganimate%20Article.R) 
+
+## Concluding Thoughts 
+
+In this guide we learnt about animating a plot using *gganimate* in R. We also learnt about the different transition types we can use as well as the different styles of animations to augment our animations to make them better. And finally, we learnt to put together different animations in a synchronized dashboard. 
+
+While I would still be of the opinion that an interactive plot, or even a static plot is the best way to present data, this was a fun excercise that showed all that can be done with R. There are several different ways that can be used to reach out to the audience by the way of data and visualization, and I hope that this guide managed to convey that idea well.  
 
 ***
 
