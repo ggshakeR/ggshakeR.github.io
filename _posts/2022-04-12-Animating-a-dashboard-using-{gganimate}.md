@@ -197,7 +197,7 @@ Our animated dashboard is finally ready! We can go ahead and save it by running 
 image_write(new_gif, format = "gif", path = "animation.gif")
 ```
 
-And we're done! Look for the file "animation.gif" within the working directory of your system *(use `getwd()` to find working directory). 
+And we're done! Look for the file **"animation.gif"** within the working directory of your system *(use `getwd()` to find working directory)*. 
 
 The entire code for this visualization [can be found at this link](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Articles%20Code/gganimate%20Article.R) 
 
