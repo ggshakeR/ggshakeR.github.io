@@ -203,7 +203,7 @@ The entire code for this visualization [can be found at this link](https://githu
 
 ## Concluding Thoughts 
 
-In this guide we learnt about animating a plot using *gganimate* in R. We also learnt about the different transition types we can use as well as the different styles of animations to augment our animations to make them better. And finally, we learnt to put together different animations in a synchronized dashboard. 
+In this guide we learnt about animating a plot using *gganimate* in R. We also learnt about the different transition types we can use as well as the different styles to augment our animations to make them better. And finally, we learnt to put together different animated plots in a synchronized dashboard. 
 
 While I would still be of the opinion that an interactive plot, or even a static plot is the best way to present data, this was a fun excercise that showed all that can be done with R. There are several different ways that can be used to reach out to the audience by the way of data and visualization, and I hope that this guide managed to convey that idea well.  
 
