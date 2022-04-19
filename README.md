@@ -18,7 +18,8 @@ The gallery is the section of the website where code for specific football/socce
 6. Go to the `gallery.md` file and add in an image of the plot you have added the code for, along with a small description (The data source). Make sure to add your name as the author below the image.
 7. When you're done with these steps, go ahead and git push your changes to the main repo.
 8. Log onto your GitHub account and click on the **"Compare and Pull Request"** button for your forked repository. 
-9. And you're done! Your changed will be approved and merged with the main website.
+
+And you're done! Your changed will be approved and merged with the main website.
 
 ### Library
 
