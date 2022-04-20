@@ -21,6 +21,16 @@ Extra Reading: [Solving the 'preserving the sum after rounding' problem for a so
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# [Timeline Flow Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Timeline%20Flow.R)
+
+A match flow chart using Opta/StatsBomb event data. 
+
+![xTFlow](https://user-images.githubusercontent.com/102229035/164221598-b1103e48-61b9-4f9e-b032-22e53e171112.png)
+
+*Author(s): Harsh Krishna*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # [Bumpy Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/master/Gallery%20Code/Bumpy.R)
 
 A bumpy chart using Transfermarkt data.
