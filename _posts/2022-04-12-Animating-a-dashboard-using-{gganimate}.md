@@ -2,8 +2,8 @@
 layout: post
 title: Animating a dashboard using {gganimate}
 subtitle: A little bit of {magick} to help you along the way!
-thumbnail-img: /assets/img/gganimate.png
-share-img: /assets/img/gganimate.png
+thumbnail-img: /assets/img/2022-04-12-Animating-a-dashboard-using-{gganimate}/gganimate.png
+share-img: /assets/img/2022-04-12-Animating-a-dashboard-using-{gganimate}/gganimate.png
 tags: [gganimate, magick, ggplot2, visualization]
 ---
 
@@ -11,7 +11,7 @@ While trying to find new interesting ways to visualize data, one of the methods 
 
 *gganimate* is a wonderful R package that allows a user to animate a visualization based on a variable present in the dataset. You can very easily animate one visualization at a time. But, what about animating an entire dashboard, with all the visualizations synchronized? That to me was an interesting problem, and this article is a guide on how you can create an animated dahboard similar to how the one below. 
 
-<img src="/assets/img/animation.gif" style="display: block; margin: auto;" align ="middle" width = "600" />
+<img src="/assets/img/2022-04-12-Animating-a-dashboard-using-{gganimate}/animation.gif" style="display: block; margin: auto;" align ="middle" width = "600" />
 
 So sit back, relax and fire up RStudio!
 
@@ -140,7 +140,7 @@ You might notice that the animation for this plot moves a bit slowly. This is as
 
 Here's what the line chart could have looked like if we used the **date** variable as the transition layer. 
 
-<img src="/assets/img/linechart.gif" style="display: block; margin: auto;" align ="middle" width = "600" />
+<img src="/assets/img/2022-04-12-Animating-a-dashboard-using-{gganimate}/linechart.gif" style="display: block; margin: auto;" align ="middle" width = "600" />
 
 And we're done with creating all our plots. The next part is the most interesting one, detailing the animations and getting all the plots put together in a dashboard. 
 
