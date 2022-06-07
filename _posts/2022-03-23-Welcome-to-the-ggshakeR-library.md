@@ -2,8 +2,8 @@
 layout: post
 title: Welcome to the ggshakeR library!
 subtitle: Helping you use R for football data est. 2021
-thumbnail-img: /assets/img/ggshakeRhex.png
-share-img: /assets/img/ggshakeRhex.png
+thumbnail-img: /assets/img/2022-03-23-Welcome-to-the-ggshakeR-library/ggshakeRhex.png
+share-img: /assets/img/2022-03-23-Welcome-to-the-ggshakeR-library/ggshakeRhex.png
 tags: [ggshakeR, Introduction]
 ---
 
