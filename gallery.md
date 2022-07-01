@@ -48,3 +48,13 @@ Dumbell Chart using Fbref and StatsBomb data.
 ![dumb](https://user-images.githubusercontent.com/102229035/163174259-809c5a45-6c96-4198-980c-b3803e078870.png)
 
 *Author(s): Harsh Krishna*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# [Diamond Scatterplot](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Diamond%20Scatter.R)
+
+Diamond scatterplot using StatsBomb/Opta event data. 
+
+![DiamondScatter](https://user-images.githubusercontent.com/87293901/176892420-9cbca38f-b44a-48d3-98c2-771d54b7edac.png)
+
+*Author(s): Harsh Krishna*
