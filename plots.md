@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Gallery
+title: Plots & Graphs
 ---
 
 Welcome to the gallery! 
@@ -60,11 +60,3 @@ Diamond scatterplot using StatsBomb/Opta event data.
 *Author(s): Harsh Krishna*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# [Making Shiny Apps - Part One](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/ShinyApp-PartOne.R)
-
-Making a reactive/dynamic table within ShinyR
-
-![ShinyApp-PartOne](https://user-images.githubusercontent.com/52009380/180024529-11f47fb3-6727-4a34-a029-94a1f0e14b46.png)
-
-*Author(s): Abhishek Amol Mishra*
