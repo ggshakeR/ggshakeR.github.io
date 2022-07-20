@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Plots & Graphs
+title: Plots
 ---
 
 Welcome to the gallery! 
