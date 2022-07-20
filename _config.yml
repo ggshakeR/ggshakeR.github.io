@@ -14,7 +14,9 @@ author:  Abhishek Amol Mishra, Harsh Krishna, Ryo Nakagawara
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Gallery: "gallery"
+  Gallery: 
+    - Plots & Graphs: "plots"
+    - Shiny Apps: "shinyapps" 
   Package: "https://abhiamishra.github.io/ggshakeR/"
 
 # --- Logo --- #
