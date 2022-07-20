@@ -58,3 +58,13 @@ Diamond scatterplot using StatsBomb/Opta event data.
 ![DiamondScatter](https://user-images.githubusercontent.com/87293901/176892420-9cbca38f-b44a-48d3-98c2-771d54b7edac.png)
 
 *Author(s): Harsh Krishna*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# [Making Shiny Apps - Part One](https://github.com/ggshakeR/ggshakeR.github.io/blob/ShinyApp-PartOne/Gallery%20Code/ShinyApp-PartOne.R)
+
+Making a reactive/dynamic table within ShinyR
+
+![ShinyApp-PartOne](https://user-images.githubusercontent.com/52009380/180024529-11f47fb3-6727-4a34-a029-94a1f0e14b46.png)
+
+*Author(s): Abhishek Amol Mishra*
