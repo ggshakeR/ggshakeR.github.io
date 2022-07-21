@@ -31,7 +31,7 @@ Here is how you can contribute by writing an article :-
 4. Open a new branch.
 5. Check and copy all the correct format (title as well as main article) for the markdown document and add your completed *.md* file to the `_posts` folder. Make sure to add your name as the author at the end of the article. 
 6. Add your thumbnail/title image and other images to the `img` folder under `assets`. Do the same if you have any GIF's. Make sure to specify the correct path and name to the image in the article. 
-7. If there is a lot of code in your article, It would be a good addition to add your complete code to the `code` folder within `_posts`. 
+7. If there is a lot of code in your article, It would be a good addition to add your complete code to the `_posts code` folder.
 8. When you're done with these steps, go ahead and git push your changes to the main repo.
 9. Click on the **"Compare and Pull Request"** button for your forked repository.
 
