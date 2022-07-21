@@ -15,7 +15,7 @@ The gallery is the section of the website where code for specific football/socce
 3. Clone the repo onto your local system. 
 4. Open a new branch.
 5. Add your complete code (from loading libraries to saving the plot) to the `Gallery Code` folder in the repository. Make sure that your code is heavily commented, feel free to check out the scripts that are already present in the repository to get familiar with the preffered format for the script.    
-6. Go to the `gallery.md` file and add in an image of the plot you have added the code for, along with a small description (The data source). Make sure to add your name as the author below the image.
+6. Go to the `plots.md` file and add in an image of the plot you have added the code for, along with a small description (The data source). Make sure to add your name as the author below the image.
 7. When you're done with these steps, go ahead and git push your changes to the main repo.
 8. Log onto your GitHub account and click on the **"Compare and Pull Request"** button for your forked repository. 
 
