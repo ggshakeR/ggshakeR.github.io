@@ -15,8 +15,8 @@ author:  Abhishek Amol Mishra, Harsh Krishna, Ryo Nakagawara
 
 navbar-links:
   Gallery: 
-    - Plots: "plots"
-    - Shiny Apps: "shinyapps" 
+    - Plots: "gallery/pages/plots"
+    - Shiny Apps: "gallery/pages/shinyapps" 
   Package: "https://abhiamishra.github.io/ggshakeR/"
 
 # --- Logo --- #
@@ -76,7 +76,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 70
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
