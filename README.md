@@ -14,8 +14,8 @@ The gallery is the section of the website where code for specific football/socce
 2. Fork this repository. 
 3. Clone the repo onto your local system. 
 4. Open a new branch.
-5. Add your complete code (from loading libraries to saving the plot) to the `Gallery Code` folder in the repository. Make sure that your code is heavily commented, feel free to check out the scripts that are already present in the repository to get familiar with the preffered format for the script.    
-6. Go to the `plots.md` file and add in an image of the plot you have added the code for, along with a small description (The data source). Make sure to add your name as the author below the image.
+5. Add your complete code (from loading libraries to saving the plot) to the `plots` folder within the `gallery` folder in the repository. Make sure that your code is heavily commented, feel free to check out the scripts that are already present in the repository to get familiar with the preferred format for the script.    
+6. Go to the `plots.md` file within the `pages` folder in `gallery` and add in an image of the plot you have added the code for, along with a small description (The data source). Make sure to add your name as the author below the image.
 7. When you're done with these steps, go ahead and git push your changes to the main repo.
 8. Log onto your GitHub account and click on the **"Compare and Pull Request"** button for your forked repository. 
 
@@ -31,7 +31,7 @@ Here is how you can contribute by writing an article :-
 4. Open a new branch.
 5. Check and copy all the correct format (title as well as main article) for the markdown document and add your completed *.md* file to the `_posts` folder. Make sure to add your name as the author at the end of the article. 
 6. Add your thumbnail/title image and other images to the `img` folder under `assets`. Do the same if you have any GIF's. Make sure to specify the correct path and name to the image in the article. 
-7. If there is a lot of code in your article, It would be a good addition to add your complete code to the `Article Code` folder. 
+7. If there is a lot of code in your article, It would be a good addition to add your complete code to the `code` folder within `_posts`. 
 8. When you're done with these steps, go ahead and git push your changes to the main repo.
 9. Click on the **"Compare and Pull Request"** button for your forked repository.
 
