@@ -199,7 +199,7 @@ image_write(new_gif, format = "gif", path = "animation.gif")
 
 And we're done! Look for the file **"animation.gif"** within the working directory of your system *(use `getwd()` to find working directory)*. 
 
-The entire code for this visualization [can be found at this link](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Articles%20Code/2022-04-12-Animating-a-dashboard-using-%7Bgganimate%7D/gganimate%20Article.R) 
+The entire code for this visualization [can be found at this link](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/_posts%20code/2022-04-12-Animating-a-dashboard-using-%7Bgganimate%7D/gganimate%20Article.R) 
 
 ## Concluding Thoughts 
 
