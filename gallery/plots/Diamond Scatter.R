@@ -1,5 +1,3 @@
-library(tidyverse)
-library(grid)
 #' Creating a diamond scatterplot using R and ggplot2.
 #' A diamond plot is a fancy version of the basic scatterplot. 
 
@@ -7,6 +5,8 @@ library(grid)
 #' Some packages have to be installed through github, thus search "package name github" 
 #' and follow the instructions on the github page for install. 
 
+library(tidyverse)
+library(grid)
 library(ggplotify)
 library(cowplot)
 library(ggtext)
