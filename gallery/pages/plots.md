@@ -9,7 +9,7 @@ This page contains code for some basic visualizations using R and ggplot2. We en
 
 (PS. The title's are links. Click on them!)
 
-# [Waffle Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Waffle.R)
+# [Waffle Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/plots/Waffle.R)
 
 Waffle chart using FBref and StatsBomb data.
 
@@ -21,7 +21,7 @@ Extra Reading: [Solving the 'preserving the sum after rounding' problem for a so
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Timeline Flow Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Timeline%20Flow.R)
+# [Timeline Flow Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/plots/Timeline%20Flow.R)
 
 A match flow chart using Opta/StatsBomb event data. 
 
@@ -31,7 +31,7 @@ A match flow chart using Opta/StatsBomb event data.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Bumpy Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/master/Gallery%20Code/Bumpy.R)
+# [Bumpy Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/plots/Bumpy.R)
 
 A bumpy chart using Transfermarkt data.
 
@@ -41,7 +41,7 @@ A bumpy chart using Transfermarkt data.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Dumbell Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Dumbell.R)
+# [Dumbell Chart](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/plots/Dumbell.R)
 
 Dumbell Chart using Fbref and StatsBomb data. 
 
@@ -51,7 +51,7 @@ Dumbell Chart using Fbref and StatsBomb data.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Diamond Scatterplot](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/Diamond%20Scatter.R)
+# [Diamond Scatterplot](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/plots/Diamond%20Scatter.R)
 
 Diamond scatterplot using StatsBomb/Opta event data. 
 
