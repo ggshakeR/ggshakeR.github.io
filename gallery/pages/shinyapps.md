@@ -9,7 +9,7 @@ This page is all about shiny apps! We encourage you have a look at our codebase 
 
 (PS. The title's are links. Click on them!)
 
-# [Making Shiny Apps - Part One](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/Gallery%20Code/ShinyApp-PartOne.R)
+# [Making Shiny Apps - Part One](https://github.com/ggshakeR/ggshakeR.github.io/blob/main/gallery/shiny%20apps/ShinyApp-PartOne.R)
 
 Making a reactive/dynamic table within ShinyR
 
