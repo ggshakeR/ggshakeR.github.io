@@ -16,3 +16,24 @@ Making a reactive/dynamic table within ShinyR
 ![ShinyApp-PartOne](https://user-images.githubusercontent.com/52009380/180024529-11f47fb3-6727-4a34-a029-94a1f0e14b46.png)
 
 *Author(s): Abhishek Amol Mishra*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# [Making Shiny Apps - Part Two]()
+
+Adding an interactive GUI with our dynamic table
+
+![ShinyApp-PartTwo]()
+
+*Author(s): Abhishek Amol Mishra*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# [Making Shiny Apps - Part Three]()
+
+Implementing live, on-demand metric analysis with dynamic tables
+
+![ShinyApp-PartThree]()
+
+*Author(s): Abhishek Amol Mishra*
+
